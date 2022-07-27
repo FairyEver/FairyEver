@@ -1,7 +1,7 @@
 ### Hey 👋, I'm LiYang
 
 <!-- Light Mode -->
-<div align="center">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height=200 src="https://github-readme-stats-org.vercel.app/api/top-langs/?username=liy-1994&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
   </a>
@@ -11,7 +11,7 @@
 </div>
 
 <!-- Dark Mode -->
-<div align="center">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height=200 src="https://github-readme-stats-org.vercel.app/api/top-langs/?username=liy-1994&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
   </a>
